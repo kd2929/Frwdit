@@ -11,7 +11,7 @@
   ],
   "success_url": "https://t.me/DForDarkAngel",
   "website": "https://github.com/Jijinr/Frwdit",
-  "repository": "https://github.com/Jijinr/Frwdit",
+  "repository": "https://github.com/kd2929/Frwdit",
   "env": {
     "API_ID": {
       "description": "Get this value from https://my.telegram.org or @UseTGXBot",
